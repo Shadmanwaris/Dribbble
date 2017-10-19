@@ -6,6 +6,28 @@ p {
 	color: #757c85;
 }
 
+.fa-check-circle {
+	color: #62d56f;
+}
+
+
+#topContent {
+	padding-bottom: 20px;
+	padding-top: 20px;
+	background-color: #525b66;
+	color: white;
+	text-align: center;
+}
+
+#topContent a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+.jumbotron {
+	padding-bottom: 100px;
+} 
+
 .jumbo-col-first {
 	padding-top: 80px;
 }
