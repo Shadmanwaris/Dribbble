@@ -1,6 +1,28 @@
+body {
+	font-size: 18px;
+} 
+
+p {
+	color: #757c85;
+}
+
+.jumbo-col-first {
+	padding-top: 80px;
+}
+
+.navbar-border {
+	border-bottom:thin solid #9298A6;
+
+}
+
+
 .jumbotron {
 	background-color: #36404D;
 	color: white;
+}
+
+.first-card-content {
+	color: #8193a2;
 }
 
 .lead {
@@ -12,12 +34,36 @@
 
 }
 
+.security-title {
+	color: #7dc7fd;
+}
+
+.privacy-title {
+	color: #8c98db;
+}
+
+.compliance-title {
+	color: #af95ee;
+}
+
 .card-body {
 	padding-left: 35px;
 	padding-bottom: 30px;
 	padding-top: 30px;
 	padding-right: 35px;
 
+}
+
+.card-list {
+	margin-top: 10px;
+}
+
+.second-card-title {
+	padding-bottom: 20px;
+}
+
+.third-card-title {
+	padding-bottom: 20px;
 }
 
 .title-content {
@@ -29,10 +75,253 @@
 	border-style: none;
 }
 
+
 .third-card {
 	background-color: #e9f4fc;
 	border-style: none;
 }
+
+.sup {
+	font-size: 70%;
+}
+
+.first-content {
+	margin-top: 100px; 
+}
+
+.first-title {
+	margin-bottom: 30px; 
+	color: #27a1fc;
+}
+
+.first-paragraph {
+	margin-bottom: 50px; 
+}
+
+.second-row {
+	margin-top: 70px; 
+}
+
+.second-title {
+	margin-top: 20px;
+	margin-bottom: 20px;  
+}
+
+
+
+.third-row {
+	margin-top: 150px;
+	margin-bottom: 50px;
+}
+
+.third-content {
+	font-size: 20px;
+}
+
+.second-fa {
+	color: #27a1fc;
+}
+
+.checked {
+	color: #45cb87;
+}
+
+.third-col {
+	padding-top: -5px;
+	padding-left: 30px;
+}
+
+.fourth-row {
+	margin-top: 90px;
+}
+
+.fourth-col-title {
+	margin-top: 25px;
+	margin-bottom: 30px;
+}
+
+.fourth-col-content {
+	text-align: justify;
+}
+
+.fourth-col-icon {
+	margin-top:  25px;
+}
+
+.second-card {
+	margin-top: 15px;
+}
+
+.second-card-title .third-card-title {
+	color: #1f517c;
+}
+
+.card-list {
+	color: #537a9c;
+}
+
+.checked-ten {
+	color: #7a4ee3;
+}
+
+.tenth-title {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.fourth-col {
+	padding-right: 30px;
+}
+
+.footer-name {
+	color: #a3a8ae;
+}
+
+.fifth-row {
+	padding-top: 200px;
+}
+
+.fifth-title {
+	color: #586ce3;
+}
+
+.fifth-lead {
+	padding-top: 20px;
+	padding-bottom: 30px;
+	font-size: 36px;
+}
+
+.fifth-second-col {
+	padding-left: 150px;
+}
+
+.sixth-row {
+	padding-top: 30px;
+}
+
+
+.seventh-row {
+	padding-top: 200px;
+}
+
+.seventh-content {
+	padding-bottom: 30px; 
+}
+
+.eigth-row {
+	padding-top: 30px;
+}
+
+.ninth-row {
+	padding-top: 180px;
+}
+
+.ninth-title {
+	color: #7a4ee3;
+}
+
+.ninth-content {
+	padding-top: 20px;
+	padding-bottom: 30px;
+	font-size: 32px;
+}
+
+.tenth-row {
+	padding-top:50px;
+}
+
+.tenth-blog {
+	padding-bottom: 50px;
+}
+
+.carousel-second {
+	margin-top: 20px;
+	margin-bottom: 25px;
+}
+
+.eleventh-row {
+	padding-top: 50px;
+	padding-bottom: 100px;
+}
+
+.twelveth {
+	background-color: #f3f4f5;
+}
+
+.twelveth-row {
+	background-color: initial;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.twelveth-title {
+	font-size: 36px;
+}
+
+.twelveth-button {
+	padding-top: 30px;
+}
+
+.divider {
+	width: 20px;
+	height: auto;
+	display: inline-block;
+}
+
+.footer-content {
+	color: #757c85;
+}
+
+.button-blue {
+	padding: 10px 30px 10px 30px;
+	font-size: 18px;
+	background-color: #7586e8;
+	color: white;
+	box-shadow: 3px 3px 0.5px #757c85;
+}
+
+.button-white {
+	padding: 10px 30px 10px 30px;
+	font-size: 18px;
+	background-color: white;
+	color: #757c85;
+	box-shadow: 3px 3px 0.5px #757c85;
+}
+
+.footer {
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+
+.footer-title {
+	font-size: 20px;
+	padding-bottom: 10px;
+}
+
+.footer-item {
+	padding-bottom: 10px;
+	font-size: 16px;
+}
+
+.second-card {
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+.third-card {
+	padding-top: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+.image-logo {
+	margin-left: -100px;
+	margin-bottom: -80px;
+}
+
 
 .col-centered {
     float: none;
@@ -107,16 +396,3 @@
   .active > div:first-child + div + div { display:block; }
 	.active > div:first-child + div + div + div { display:block; }
 }
-
-.block {
-	width: 306px;
-	height: 230px;
-}
-
-.red {background: red;}
-
-.blue {background: blue;}
-
-.green {background: green;}
-
-.yellow {background: yellow;}
